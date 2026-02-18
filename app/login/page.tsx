@@ -15,7 +15,7 @@ export default function LoginPage() {
                     />
                 </div>
             </div>
-
+            {/* <div>Hello</div> */}
             {/* Right Side (Login Form) */}
             <div className="flex w-full md:w-1/2 items-center justify-center bg-blue-500 p-8 relative overflow-hidden">
                 {/* Decorative Circles */}
@@ -26,7 +26,7 @@ export default function LoginPage() {
                 <div className="w-full max-w-sm bg-white rounded-2xl shadow-xl p-8 md:p-10 z-10">
                     <div className="mb-8">
                         <h1 className="text-3xl font-bold text-slate-900 mb-2">Hello!</h1>
-                        <p className="text-slate-500 text-sm">Sign Up to Get Started</p>
+                        <p className="text-slate-500 text-sm">Sign Up to Get STTTTTTTTTtarted</p>
                     </div>
 
                     <form className="space-y-5">
@@ -65,7 +65,7 @@ export default function LoginPage() {
                         {/* Forgot Password Link */}
                         <div className="text-center mt-4">
                             <Link href="#" className="text-xs text-slate-400 hover:text-blue-600 transition-colors">
-                                Forgot Password
+                                Forgot Pa1234ssword
                             </Link>
                         </div>
                     </form>
